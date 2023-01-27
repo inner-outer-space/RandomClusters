@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(204, 235, 246);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+p{
+    text-align: center;
+    color: #17998e;
+}
+h1{
+    text-align: center;
+    font-weight: 400;
+}
+.highlight{
+    font-weight: 700;
+    color: #c71282;
+}
